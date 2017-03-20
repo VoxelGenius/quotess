@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+
+}
+.menu {
+  margin: 0 auto;
+  width: 100%;
+  list-style-type: none;
+  position: fixed;
+  top: 0px;
+  z-index: 1000000;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: solid 1px black;
+  background-color: #fff;
+  }
+.menu li {
+  
+  color: black;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 12px;
+  margin-right: 25px;
+  text-transform: uppercase;
+}
+.menu a {
+
+  text-decoration: none;
+  color: black;
+}
+.title-bar {
+  background-color: white;
+  color: black;
+}
+
+#example-menu {
+  margin: 0 auto;
+  width: 100%;
+  list-style-type: none;
+  position: fixed;
+  top: 0px;
+  z-index: 1000000;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: solid 1px black;
+  background-color: white;
+  
+}
+#example-menu li {
+  color: black;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 12px;
+  margin-right: 25px;
+  text-transform: uppercase;
+}
+
+#example-menu a {
+
+  text-decoration: none;
+  color: black;
+}
+/**
+{
+  border: solid 1px black;
+}*/
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  margin: 0 auto;
+  width: 100%;
+  list-style-type: none;
+  position: fixed;
+  top: 0px;
+  z-index: 1000000;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: solid 1px black;
+  background-color: white;
+  }
+  .invici
+  {
+    visibility: hidden;
+  }
+
+.nav li {
+  
+  color: black;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 12px;
+  margin-right: 25px;
+  text-transform: uppercase;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+}
+.main
+{
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+.main h1 {
+  font-size: 32px;
+}
+.img-container {
+    display: block;
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 100px auto;
+  
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    
+
+    }
+.contact {
+  position: relative;
+  top: 150px;
+  text-align: center;
+  width: 500px;
+  height: 100px;
+  margin: 0 auto;
+  border-top: solid 1px black;
+}
+.f1 {font-family: 'Inconsolata', monospace;}
+.f2 {font-family: 'Shadows Into Light', cursive;}
+.f3 {font-family: 'Amatic SC', cursive;}
+.f4 {font-family: 'Coming Soon', cursive;}
+.f5 {font-family: 'Shadows Into Light Two', cursive;}
+.f6 {font-family: 'Julius Sans One', sans-serif;}
+.f7 {font-family: 'Voltaire', sans-serif;}
+.f8 {font-family: 'Covered By Your Grace', cursive;}
+.f9 {font-family: 'Patrick Hand', cursive;}
+.f10 {font-family: 'Neucha', cursive;}
+
+.main h1 {
+  letter-spacing: 3px;
+}
+.main p { 
+font-size: 20px;
+}
+.navigats {
+  margin: 0 auto;
+  width: 500px;
+  list-style-type: none;
+  padding: 20px 0;
+  text-align: center;
+}
+.navigats li {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  width: 60px;
+  font-weight: 600;
+  font-size: 40px;
+  
+}
+.contigats {
+  position: absolute;
+  top: 5px;
+  margin: 0 auto;
+  width: 500px;
+  list-style-type: none;
+  padding: 20px 0;
+  text-align: center;
+}
+.contigats li {
+
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 100;
+}
+.f6 li {
+  font-size: 20px;
+}
+

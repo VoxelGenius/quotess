@@ -1,0 +1,36 @@
+.br1
+{
+	border: solid 1px blue;
+}
+.br2
+{
+	border: solid 1px red;
+}
+.br3
+{
+	border: solid 1px  green;
+}
+.br4
+{
+	border: solid 1px purple;
+}
+.br5
+{
+	border: solid 1px pink;
+}
+.br6
+{
+	border: solid 1px brown;
+}
+.bb1
+{
+	background-color: blue;
+}
+.bb2
+{
+	background-color: red;
+}
+.bb3
+{
+	background-color: green; 
+}
